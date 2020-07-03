@@ -12,7 +12,7 @@
         "react-dom": "^16.13.1",
         "react-scripts": "3.4.1"
     },
-    "homepage": "https://romangrubic.github.io/breaking-bad-cast/",
+    "homepage": "https://romangrubic.github.io/breaking-bad-cast/.",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
